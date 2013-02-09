@@ -190,8 +190,6 @@
           isactive = false;
           if (complete_hover) {
             complete.fadeOut("fast");
-          } else {
-            input.focus();
           }
         });
         
